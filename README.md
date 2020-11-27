@@ -7,7 +7,7 @@ Hierarchical Planning Workshops take place during the yearly ICAPS conference si
 ## HPLAN 2018
 > Edited by Pascal Bercher, Daniel Holler, Susanne Biundo, and Ron Alford
 >
-> 56 pp.
+> 58 pp.
 >
 > Delft, Netherlands, June 2018.
 
@@ -27,6 +27,6 @@ Hierarchical Planning Workshops take place during the yearly ICAPS conference si
 >
 > 41 pp.
 >
-> (Virutal) Nancy, France, October 2020.
+> (Virtual) Nancy, France, October 2020.
 
 [HPLAN 2020 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2020HierarchicalPlanningWorkshopProceedings.pdf)
