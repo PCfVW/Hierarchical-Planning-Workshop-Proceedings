@@ -20,7 +20,7 @@ Hierarchical Planning Workshops take place during the yearly ICAPS conference si
 >
 > Berkeley, Californai, July 2019.
 
-[HPLAN 2018 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2019HierarchicalPlanningWorkshopProceedings.pdf)
+[HPLAN 2019 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2019HierarchicalPlanningWorkshopProceedings.pdf)
 
 ## HPLAN 2020
 > Edited by Pascal Bercher, Daniel Höller, Roman Bartak, and Ron Alford
@@ -29,4 +29,4 @@ Hierarchical Planning Workshops take place during the yearly ICAPS conference si
 >
 > (Virutal) Nancy, France, October 2020.
 
-[HPLAN 2018 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2020HierarchicalPlanningWorkshopProceedings.pdf)
+[HPLAN 2020 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2020HierarchicalPlanningWorkshopProceedings.pdf)
