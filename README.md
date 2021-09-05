@@ -38,4 +38,4 @@ Hierarchical Planning Workshops take place during the yearly ICAPS conference si
 >
 > (Virtual) Guangzhou, China, August 2021.
 
-[HPLAN 2020 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2021HierarchicalPlanningProceedings.pdf)
+[HPLAN 2021 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2021HierarchicalPlanningProceedings.pdf)
