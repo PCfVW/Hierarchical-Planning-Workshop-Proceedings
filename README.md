@@ -39,3 +39,12 @@ Hierarchical Planning Workshops take place during the yearly ICAPS conference si
 > (Virtual) Guangzhou, China, August 2021.
 
 [HPLAN 2021 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2021HierarchicalPlanningProceedings.pdf)
+
+## HPLAN 2022
+> Edited by Pascal Bercher, Jane Jean Kiam, Arthur Bit-Monnot, and Ron Alford
+>
+> 82 pp.
+>
+> (Virtual) Singapore, June 2022.
+
+[HPLAN 2022 Proceedings](https://github.com/PCfVW/Hierarchical-Planning-Workshop-Proceedings/blob/main/2022HierarchicalPlanningProceedings.pdf)
