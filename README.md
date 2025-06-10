@@ -2,7 +2,7 @@
 
 HPLAN Proceedings.
 
-Hierarchical Planning Workshops take place during the yearly ICAPS conference since 2018.
+[Hierarchical Planning Workshops (HPlan](https://hierarchical-task.net/hplan) take place during the yearly ICAPS conference since 2018.
 
 ## HPLAN 2018 (1st)
 > Edited by Pascal Bercher, Daniel Holler, Susanne Biundo, and Ron Alford
